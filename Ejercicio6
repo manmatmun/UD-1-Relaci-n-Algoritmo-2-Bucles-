@@ -1,0 +1,11 @@
+Algoritmo Ejercicio6
+	DEFINIR Nmero, resultado, i Como Real
+	Escribir "Introducir nmero"
+	Leer Nmero
+	Para i<-1 Hasta 10 Hacer
+		resultado<-i*10
+		Escribir Nmero, "x", i "=" , resultado
+		
+	FinPara
+	
+FinAlgoritmo
